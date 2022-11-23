@@ -116,6 +116,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://krahets.github.io/hello-algo/chapter_sorting/</loc>
+         <lastmod>2022-11-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://krahets.github.io/hello-algo/chapter_sorting/bubble_sort/</loc>
          <lastmod>2022-11-23</lastmod>
          <changefreq>daily</changefreq>
@@ -132,6 +137,11 @@
     </url>
     <url>
          <loc>https://krahets.github.io/hello-algo/chapter_sorting/quick_sort/</loc>
+         <lastmod>2022-11-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://krahets.github.io/hello-algo/chapter_sorting/summary/</loc>
          <lastmod>2022-11-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
