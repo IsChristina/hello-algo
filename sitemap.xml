@@ -1,202 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://krahets.github.io/hello-algo/</loc>
+         <loc>https://www.hello-algo.com/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/leetcode/</loc>
+         <loc>https://www.hello-algo.com/leetcode/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/log/</loc>
+         <loc>https://www.hello-algo.com/log/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_array_and_linkedlist/array/</loc>
+         <loc>https://www.hello-algo.com/chapter_array_and_linkedlist/array/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_array_and_linkedlist/linked_list/</loc>
+         <loc>https://www.hello-algo.com/chapter_array_and_linkedlist/linked_list/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_array_and_linkedlist/list/</loc>
+         <loc>https://www.hello-algo.com/chapter_array_and_linkedlist/list/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_array_and_linkedlist/summary/</loc>
+         <loc>https://www.hello-algo.com/chapter_array_and_linkedlist/summary/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_computational_complexity/performance_evaluation/</loc>
+         <loc>https://www.hello-algo.com/chapter_computational_complexity/performance_evaluation/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_computational_complexity/space_complexity/</loc>
+         <loc>https://www.hello-algo.com/chapter_computational_complexity/space_complexity/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_computational_complexity/space_time_tradeoff/</loc>
+         <loc>https://www.hello-algo.com/chapter_computational_complexity/space_time_tradeoff/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_computational_complexity/summary/</loc>
+         <loc>https://www.hello-algo.com/chapter_computational_complexity/summary/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_computational_complexity/time_complexity/</loc>
+         <loc>https://www.hello-algo.com/chapter_computational_complexity/time_complexity/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_data_structure/classification_of_data_strcuture/</loc>
+         <loc>https://www.hello-algo.com/chapter_data_structure/classification_of_data_strcuture/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_data_structure/data_and_memory/</loc>
+         <loc>https://www.hello-algo.com/chapter_data_structure/data_and_memory/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_data_structure/summary/</loc>
+         <loc>https://www.hello-algo.com/chapter_data_structure/summary/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_dsa_introduction/</loc>
+         <loc>https://www.hello-algo.com/chapter_dsa_introduction/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_introduction/</loc>
+         <loc>https://www.hello-algo.com/chapter_introduction/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_introduction/about_me/</loc>
+         <loc>https://www.hello-algo.com/chapter_introduction/about_me/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_introduction/contribution/</loc>
+         <loc>https://www.hello-algo.com/chapter_introduction/contribution/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_introduction/installation/</loc>
+         <loc>https://www.hello-algo.com/chapter_introduction/installation/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_introduction/suggestions/</loc>
+         <loc>https://www.hello-algo.com/chapter_introduction/suggestions/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_reference/</loc>
+         <loc>https://www.hello-algo.com/chapter_reference/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_searching/binary_search/</loc>
+         <loc>https://www.hello-algo.com/chapter_searching/binary_search/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_searching/hashing_search/</loc>
+         <loc>https://www.hello-algo.com/chapter_searching/hashing_search/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_searching/linear_search/</loc>
+         <loc>https://www.hello-algo.com/chapter_searching/linear_search/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_searching/summary/</loc>
+         <loc>https://www.hello-algo.com/chapter_searching/summary/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_sorting/</loc>
+         <loc>https://www.hello-algo.com/chapter_sorting/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_sorting/bubble_sort/</loc>
+         <loc>https://www.hello-algo.com/chapter_sorting/bubble_sort/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_sorting/insertion_sort/</loc>
+         <loc>https://www.hello-algo.com/chapter_sorting/insertion_sort/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_sorting/merge_sort/</loc>
+         <loc>https://www.hello-algo.com/chapter_sorting/merge_sort/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_sorting/quick_sort/</loc>
+         <loc>https://www.hello-algo.com/chapter_sorting/quick_sort/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_sorting/summary/</loc>
+         <loc>https://www.hello-algo.com/chapter_sorting/summary/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_stack_and_queue/deque/</loc>
+         <loc>https://www.hello-algo.com/chapter_stack_and_queue/deque/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_stack_and_queue/queue/</loc>
+         <loc>https://www.hello-algo.com/chapter_stack_and_queue/queue/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_stack_and_queue/stack/</loc>
+         <loc>https://www.hello-algo.com/chapter_stack_and_queue/stack/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_stack_and_queue/summary/</loc>
+         <loc>https://www.hello-algo.com/chapter_stack_and_queue/summary/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_tree/binary_search_tree/</loc>
+         <loc>https://www.hello-algo.com/chapter_tree/binary_search_tree/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_tree/binary_tree/</loc>
+         <loc>https://www.hello-algo.com/chapter_tree/binary_tree/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_tree/binary_tree_types/</loc>
+         <loc>https://www.hello-algo.com/chapter_tree/binary_tree_types/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://krahets.github.io/hello-algo/chapter_tree/summary/</loc>
+         <loc>https://www.hello-algo.com/chapter_tree/summary/</loc>
          <lastmod>2022-11-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
